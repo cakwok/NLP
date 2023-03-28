@@ -9,7 +9,7 @@ In this project, I have implemented Naïve Bayes classifiers and TF-IDF vectoriz
 Naïve Bayes classifiers is classic, in the sense of using the most frequently used Bayes' theorem to compute the conditional probability of individual words given the occurence in individual classes.  During inference, we could multiply the probabilities of each individual word in the corpus, take the class with the highest probability to achieve the multinomial classification.
 
 #### Count tokenizer  
-From the above example, we can see that counting occurence of a unique word provide information.  Therefore, the most basic form of tokenizing a corpus is to count unique word occurence, and represent each corpus with a vector of word count.
+From the above example, we can see that counting occurence of a unique word extract information aka features.  Therefore, the most basic form of tokenizing a corpus is to count unique word occurence, and represent each corpus with a vector of word count.
 
 Example:<br>
 D1 = “The cat chased the mouse.”<br>
