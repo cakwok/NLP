@@ -28,5 +28,4 @@ However, we can see a drawback from count tokenizer.  Auxiliary words could be r
 #### Performance Evaluation
 1.  With logistic regression + TF-IDF, accuracy ~99%
 2.  With Naive Bayes classifier + count tokenizer, accuracy ~96% <br> <br>
-![image](https://user-images.githubusercontent.com/21034990/228355237-a791e7b2-e021-40a1-95ef-5d67a16fbe68.png)
 ![image](https://user-images.githubusercontent.com/21034990/228354229-4208cac6-8c7e-4f77-b717-2b264222c7d7.png)
