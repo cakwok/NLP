@@ -2,7 +2,7 @@
 
 In this project, I have implemented BERT to detect misleading online news with an achieved accuracy rate of 100%.
 
-<img src ="https://user-images.githubusercontent.com/21034990/229953675-f705a435-b895-4db5-9f77-e9ca185a0d73.png" width=400><img src ="https://user-images.githubusercontent.com/21034990/228343256-5e1322a9-681f-497c-9d25-21f03190f246.png" width=600><br>
+<img src ="https://user-images.githubusercontent.com/21034990/229953675-f705a435-b895-4db5-9f77-e9ca185a0d73.png" width=400><br>
 ##### (Dataset: Kaggle Fake and real news dataset.  Image: Unesco) 
 
 ### K Fold for locating learning rate for dataset
