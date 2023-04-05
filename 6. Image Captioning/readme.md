@@ -2,7 +2,7 @@
 
 The objective of the project is to design and develop an advanced artificial intelligence image captioning system that is capable of generating captions for images or video frames without human involvement. 
 
-In our work, we have adopted an encoder and decoder approach, utilizing Vision Transformer (ViT) as the encoder to generate image embeddings, and compare the outcomes by 2 different decoders - BERT and GPT2.
+In our work, we have adopted an encoder and decoder approach, utilizing Vision Transformer (ViT) as the encoder to generate image embeddings, and compared the outcomes by 2 different decoders - BERT and GPT2.
 
 ### Results
 
