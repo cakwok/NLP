@@ -2,8 +2,7 @@
 
 The objective of the project is to design and develop an advanced artificial intelligence image captioning system that is capable of generating captions for images or video frames without human involvement. 
 
-### ViT/BERT, ViT/GPT ![image](https://user-images.githubusercontent.com/21034990/233729906-8617d2ea-82c8-446e-ba49-4b88cce72cef.png)
-Encoder and Decoder Architecture
+### ViT/BERT, ViT/GPT Architecture
 In our work, we have adopted an encoder and decoder approach, utilizing Vision Transformer (ViT) as the encoder to generate image embeddings, and compared the outcomes by 2 different decoders - BERT and GPT2.
 
 They key part is the cross-attention head which takes the key and value from encoder, and query from decoder embeddings to achieve the attention between image patches of which represents location in an image.  At each training step, the model predicts sequence of words by comparing the ground truth caption.
