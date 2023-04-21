@@ -1,4 +1,4 @@
-## Image Captioning Project Summary (In progress Apr 4 2023)
+## Image Captioning Project Summary 
 
 The objective of the project is to design and develop an advanced artificial intelligence image captioning system that is capable of generating captions for images or video frames without human involvement. 
 
